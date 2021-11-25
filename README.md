@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @frogThanos
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning vue.js and django
-- 📫 How to reach me on twitter @athakyr
+- 📫 How to reach me on twitter @athakyr and linkedin https://www.linkedin.com/in/athanasios-thanos-kyriakakis-258b80113/

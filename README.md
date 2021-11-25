@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @frogThanos
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning vue.js and django
+- 📫 How to reach me on twitter @athakyr
